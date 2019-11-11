@@ -22,6 +22,14 @@ $z = 11
 
 print(($x - $y) - $z - 23)
 
+// osztás
+//-------
+
+$aaa = 50;
+$bbb = 5;
+
+print($aaa / $bbb)
+
 // itt a vége :)
 
 ?>
