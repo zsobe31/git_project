@@ -22,7 +22,7 @@ $x = 34
 $y = 4
 $z = 11
 
-print(($x - $y) - $z - 23)
+print(($x - $y) - $z - 23);
 
 // osztás
 //-------
@@ -30,7 +30,7 @@ print(($x - $y) - $z - 23)
 $aaa = 50;
 $bbb = 5;
 
-print($aaa / $bbb)
+print($aaa / $bbb);
 
 // szorzás
 //--------
@@ -39,7 +39,7 @@ $aa = 23;
 $bb = 65;
 $cc = 4;
 
-print(($aa * $cc) * $bb)
+print(($aa * $cc) * $bb);
 
 // itt a vége :)
 
