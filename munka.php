@@ -21,6 +21,15 @@ $e = 4
 
 print($d - $e)
 
+// szorzás
+//--------
+
+$aa = 23;
+$bb = 65;
+$cc = 4;
+
+print(($aa * $cc) * $bb)
+
 // itt a vége :)
 
 ?>
