@@ -16,10 +16,10 @@ print($a + $b + $c);
 // kivonás
 //--------
 
-$d = 34
-$e = 4
+$x = 34
+$y = 4
 
-print($d - $e)
+print($x - $y)
 
 // itt a vége :)
 
