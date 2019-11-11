@@ -1,1 +1,3 @@
+# git_project
+
 Ez a project leirása.....
