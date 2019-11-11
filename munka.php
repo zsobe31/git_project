@@ -21,6 +21,14 @@ $e = 4
 
 print($d - $e)
 
+// osztás
+//-------
+
+$aaa = 50;
+$bbb = 5;
+
+print($aaa / $bbb)
+
 // itt a vége :)
 
 ?>
