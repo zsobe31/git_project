@@ -1,3 +1,3 @@
-# git_project
+# Első GIT projectem
 
 Ez a project leirása.....
