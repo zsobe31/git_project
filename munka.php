@@ -9,8 +9,10 @@
 $a = 106;
 $b = 19;
 $c = 29;
-$d = 54;
-$e = 654;
+$d = 542;
+$e = 65;
+
+// GitHub-on szerkesztve
 
 
 print($a + $b + $c + $d + $e);
