@@ -18,8 +18,9 @@ print($a + $b + $c);
 
 $x = 34
 $y = 4
+$z = 11
 
-print($x - $y)
+print(($x - $y) - $z - 23)
 
 // itt a vége :)
 
